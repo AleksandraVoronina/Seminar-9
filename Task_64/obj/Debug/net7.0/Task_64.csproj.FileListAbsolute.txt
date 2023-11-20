@@ -1,0 +1,14 @@
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/bin/Debug/net7.0/Task_64
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/bin/Debug/net7.0/Task_64.deps.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/bin/Debug/net7.0/Task_64.runtimeconfig.json
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/bin/Debug/net7.0/Task_64.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/bin/Debug/net7.0/Task_64.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.AssemblyInfoInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.AssemblyInfo.cs
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.csproj.CoreCompileInputs.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/refint/Task_64.dll
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.pdb
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/Task_64.genruntimeconfig.cache
+/Users/aleksandravoronina/Desktop/GB/C#/Seminar 9/Task_64/obj/Debug/net7.0/ref/Task_64.dll
